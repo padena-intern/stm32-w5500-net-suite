@@ -235,5 +235,3 @@ tools/mosquitto_test.conf — minimal TLS-only mosquitto config
 tools/mqtt_tls_test.py    — laptop-side MQTT+TLS test client
 hercules_crypto_tool.py   — laptop-side helper for the encrypted TCP channel
 ```
- 
- 
